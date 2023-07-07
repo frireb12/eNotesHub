@@ -1,7 +1,7 @@
 # Site Specific Configuration
 name: LightSpeed
 description: A simple Jekyll theme
-baseurl: https://frireb12.github.io
+url: https://frireb12.github.io
 author: tajacks
 timezone: America/Toronto
 timezone_short: ET
