@@ -1,8 +1,7 @@
 # Site Specific Configuration
 name: eNotesHub
 domain: frireb12.github.io 
-url: https://frireb12.github.io
-baseurl: /eNotesHub/
+url: https://frireb12.github.io/eNotesHub/
 
 # Keywords
 keywords: ['seo', 'key', 'words']
